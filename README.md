@@ -1,5 +1,8 @@
 # MERN Stack Todo List
 
+<br/>
+<p align="center"><a href="mongodb.com/mern-stack" target="_blank"><img src="https://wallpapercave.com/wp/wp8903890.jpg" width="400"></a></p>
+
 ## Requirement
 
 - MongoDB
