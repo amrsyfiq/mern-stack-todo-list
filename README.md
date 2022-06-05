@@ -1,6 +1,6 @@
-## MERN Stack Todo
+# MERN Stack Todo List
 
-Small Full Stack Todo App using MERN Stack:
+## Requirement
 
 - MongoDB
 - Express
@@ -13,7 +13,7 @@ Have the following installed before proceeding:
 - Have nodemon installed globally: npm i -g nodemon
 - Install mongoDB [Link](https://docs.mongodb.com/manual/installation/) and have service running, see docs
 
-### Setup
+## Setup
 
 1. Have mongo running locally
 2. Start mongodb terminal
