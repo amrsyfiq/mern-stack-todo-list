@@ -30,7 +30,7 @@ $ mongo
 > use todos
 ```
 
-4. Enter backend folder, install node modules, start server server
+4. Enter backend folder, install node modules, start server
 
 ```bash
 $ cd backend
