@@ -12,9 +12,9 @@
 
 Have the following installed before proceeding:
 
-- Install Node.js [Link](https://nodejs.org/en/download/)
+- Install Node.js (https://nodejs.org/en/download)
 - Have nodemon installed globally: npm i -g nodemon
-- Install mongoDB [Link](https://docs.mongodb.com/manual/installation/) and have service running, see docs
+- Install mongoDB (https://docs.mongodb.com/manual/installation) and have service running, see docs
 
 ## Setup
 
